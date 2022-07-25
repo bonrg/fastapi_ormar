@@ -1,0 +1,7 @@
+pydantic
+pydantic[dotenv]
+fastapi
+databases[asyncpg]
+ormar[postgresql]
+uvicorn
+sqlalchemy
